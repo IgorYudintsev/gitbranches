@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <div>20.04.2024-11:22-IGOR</div>
+     <div>20.04.2024-11:22-MAIN</div>
+     <div>20.04.2024-12:03-MAIN</div>
     </div>
   );
 }
