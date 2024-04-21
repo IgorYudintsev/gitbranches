@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import {Igor} from "./Igor";
 import {Sasha} from "./Sasha";
+import {NewIgor} from "./NewIgor";
 
 function App() {
     return (
@@ -13,6 +14,7 @@ function App() {
             <div>20.04.2024-12:36-MAIN</div>
             <Igor/>
             <Sasha/>
+            <NewIgor/>
         </div>
     );
 }
