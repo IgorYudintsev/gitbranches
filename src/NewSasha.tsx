@@ -6,6 +6,7 @@ export const NewSasha = (props: Props) => {
         <div style={{backgroundColor:'yellow'}}>
             <div>21.04.2024-13:50-Sasha</div>
             <div>21.04.2024-13:51-Sasha</div>
+            <div>21.04.2024-13:59-Sasha</div>
         </div>
     );
 };
