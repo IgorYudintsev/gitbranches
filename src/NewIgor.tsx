@@ -4,7 +4,9 @@ import React from "react";
 export const NewIgor = () => {
     return (
         <div style={{backgroundColor: 'blue'}}>
-            <div>ONLY THIS COMMIT</div>
+            <div>21.04.2024-13:27-IGOR</div>
+            <div>21.04.2024-13:28-IGOR</div>
+            <div>21.04.2024-13:31-IGOR</div>
         </div>
     );
 };
